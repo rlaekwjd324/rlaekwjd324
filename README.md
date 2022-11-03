@@ -39,7 +39,7 @@ Front-End Engineer, Back-End Engineer, PO(Product Owner), PM(Project Manager), E
 <br>
 
 ##  Algorithm (Baekjoon)
-<p align="center">
+<p align="start">
   <a href="https://solved.ac/rew324"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rew324" alt="Solved.ac프로필"></a>
   <a href="https://solved.ac/rew324"><img src="http://mazandi.herokuapp.com/api?handle=rew324&amp;theme=warm" alt="mazandi profile"></a>
 </p>
