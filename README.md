@@ -36,3 +36,11 @@ Front-End Engineer, Back-End Engineer, PO(Product Owner), PM(Project Manager), E
 [![rlaekwjd324's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rlaekwjd324&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&theme=merko)](https://github.com/rlaekwjd324)
 
 <!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frlaekwjd324%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com) -->
+<br>
+
+##  Algorithm (Baekjoon)
+<p align="center">
+  <a href="https://solved.ac/rew324"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rew324" alt="Solved.ac프로필"></a>
+  <a href="https://solved.ac/rew324"><img src="http://mazandi.herokuapp.com/api?handle=rew324&amp;theme=warm" alt="mazandi profile"></a>
+</p>
+<br>
