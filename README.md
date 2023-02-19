@@ -9,7 +9,7 @@
 
 안녕하세요, **3년차 김다정**입니다.
 <br><br>
-**Development Leader**로 소프트스퀘어드와 함께하고 있습니다.
+**Development Leader, Product Manager**로 소프트스퀘어드와 함께하고 있습니다.
 <br>
 Front-End Engineer, Back-End Engineer, PO(Product Owner), PM(Project Manager), Educator로서의 이력도 있습니다.
 <br><br>
