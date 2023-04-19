@@ -30,7 +30,6 @@ Front-End Engineer, Back-End Engineer, PO(Product Owner), PM(Project Manager), E
 <div>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=black">
 <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=iOS&logoColor=white">
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=black">
 </div>
 <br>
 
