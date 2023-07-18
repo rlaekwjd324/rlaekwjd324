@@ -9,12 +9,12 @@
 
 안녕하세요, **4년차 김다정**입니다.
 <br><br>
-**Development Leader & DevOps Engineer**로 소프트스퀘어드와 함께하고 있습니다.
+**Development Leader & Infra 담당자**로 소프트스퀘어드와 함께하고 있습니다.
 <br>
 Back-End Engineer, Front-End Engineer, PO(Product Owner), PM(Project/Product Manager), Educator로서의 이력도 있습니다.
 <br><br>
 끊임없이 새로운 분야의 공부를 하고 있으며, 
-현재는 **Infra** 분야로도 뻗어나가고 있습니다.
+현재는 **DevOps** 분야로도 뻗어나가고 있습니다.
 <br><br>
 
 
