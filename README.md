@@ -14,7 +14,7 @@
 Back-End Engineer, Front-End Engineer, PO(Product Owner), PM(Project/Product Manager), Educator로서의 이력도 있습니다.
 <br><br>
 끊임없이 새로운 분야의 공부를 하고 있으며, 
-현재는 **DevOps** 분야로도 뻗어나가고 있습니다.
+현재는 **DevOps** 로도 뻗어나가고 있습니다.
 <br><br>
 
 
