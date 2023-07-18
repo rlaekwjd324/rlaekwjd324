@@ -20,6 +20,12 @@ Back-End Engineer, Front-End Engineer, PO(Product Owner), PM(Project/Product Man
 
 ##  Main Tech Stack 
 <div>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=black">
+<img src="https://img.shields.io/badge/Kubernetes-0079C1?style=for-the-badge&logo=Kubernetes&logoColor=black">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=black">
+</div>
+<div>
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=black">
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=black">
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=black">
