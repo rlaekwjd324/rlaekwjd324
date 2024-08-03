@@ -7,36 +7,25 @@
 </div>
 <br>
 
-안녕하세요, **4년차 김다정**입니다.
+안녕하세요, **김다정**입니다.
 <br><br>
-현재 클라우드 개발자로 일하고 있으며,
+현재 **클라우드 개발자**로 일하고 있으며,
 <br><br>
-**Development Leader & Infra 담당자**로 일한 이력이 있습니다.
+Development Leader & Infra 담당자로 일한 이력이 있습니다.
 <br><br>
 끊임없이 새로운 분야의 공부를 하고 있습니다.
 <br><br>
 
 
-##  Main Tech Stack 
+##  Tech Stack 
 <div>
+<img src="https://img.shields.io/badge/Go-2496ED?style=for-the-badge&logo=Go&logoColor=black">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=black">
 <img src="https://img.shields.io/badge/Kubernetes-0079C1?style=for-the-badge&logo=Kubernetes&logoColor=black">
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=black">
 </div>
-<div>
-<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=black">
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=black">
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=black">
-</div>
 <br>
 
-##  Sub Tech Stack 
-<div>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=black">
-<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=iOS&logoColor=white">
-</div>
-<br>
 
 ##  Git Status
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=rlaekwjd324)](https://github.com/ryo-ma/github-profile-trophy) -->
